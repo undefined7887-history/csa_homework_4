@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+1: Documentary: name = film4, year = 1140, duration = 320000
+2: Fiction: name = film1, year = 1230, director = katya
+3: Cartoon: name = film3, year = 1450, stringType = PLASTICINE
+4: Fiction: name = film1, year = 1996, director = masha
+5: Documentary: name = film2, year = 2013, duration = 200000

@@ -1,0 +1,8 @@
+Input container:
+Container contains 6 elements.
+1: Cartoon: name = abcdef1, year = 1950, stringType = DRAW
+2: Fiction: name = abcdef2, year = 1280, director = some_director
+3: Documentary: name = abcdef3, year = 1000, duration = 23849324
+4: Cartoon: name = abcdef4, year = 1304, stringType = DRAW
+5: Cartoon: name = abcdef5, year = 1450, stringType = PUPPET
+6: Documentary: name = abcdef5, year = 1140, duration = 12343

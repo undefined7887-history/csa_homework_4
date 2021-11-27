@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 elements.
+1: Documentary: name = film233kd_sds, year = 1140, duration = 320000
+2: Cartoon: name = film1319123, year = 1304, stringType = PUPPET
+3: Documentary: name = film1233, year = 1000, duration = 200000
+4: Cartoon: name = film2222, year = 1450, stringType = PLASTICINE
+5: Fiction: name = film123, year = 1280, director = yaroslav
+6: Cartoon: name = film2, year = 1950, stringType = DRAW
+7: Fiction: name = film1, year = 2021, director = dmitriy

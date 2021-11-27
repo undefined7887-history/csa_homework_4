@@ -1,0 +1,7 @@
+Input container:
+Container contains 5 elements.
+1: Documentary: name = film7, year = 2013, duration = 1230000
+2: Fiction: name = film1, year = 1996, director = woong
+3: Cartoon: name = film3, year = 1450, stringType = PUPPET
+4: Documentary: name = film4, year = 1340, duration = 1230000
+5: Fiction: name = film1, year = 1234, director = aboba

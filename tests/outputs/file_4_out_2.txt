@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 6 elements.
+1: Documentary: name = abcdef3, year = 1000, duration = 23849324
+2: Documentary: name = abcdef5, year = 1140, duration = 12343
+3: Fiction: name = abcdef2, year = 1280, director = some_director
+4: Cartoon: name = abcdef4, year = 1304, stringType = DRAW
+5: Cartoon: name = abcdef5, year = 1450, stringType = PUPPET
+6: Cartoon: name = abcdef1, year = 1950, stringType = DRAW

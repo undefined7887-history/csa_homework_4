@@ -1,0 +1,6 @@
+Input container:
+Container contains 4 elements.
+1: Fiction: name = film9, year = 2021, director = director
+2: Cartoon: name = film4, year = 1950, stringType = DRAW
+3: Fiction: name = film3, year = 1292, director = cool_autor
+4: Documentary: name = film15, year = 1234, duration = 200000
